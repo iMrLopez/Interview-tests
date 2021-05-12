@@ -3,4 +3,4 @@
 # 2. Comparta su pantalla con el equipo que le esta entrevistando.
 # 3. Explique su solucion de codigo paso a paso para el entrevistador.
 
-# Generate 3 random integers between 100 and 999 which is divisible by 5
+# Genere 3 numeros enteros al azar entre 100 y 99 que sean divisibles entre 5
