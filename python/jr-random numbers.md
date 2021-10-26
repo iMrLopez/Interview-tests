@@ -16,3 +16,5 @@
 ## --> OUTPUT <--
 
 - 3 numeros enteros al azar divisibles entre 5
+
+© Marny Lopez https://github.com/iMrLopez
