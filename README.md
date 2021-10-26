@@ -7,7 +7,7 @@ The idea would be to not evaluate the candidate as how they solve this, but how 
 
 ## Levels as below
 
-`jr_[filename]` - For Junior or Entry level positions
-`mid_[filename]` - For Mid poositions
-`sr_[filename]` - For Senior positions
-`q_[filename]` - If you are feeling lazy and just want to check if the candidate can evaluate code on the top of their minds
+- `jr_[filename]` - For Junior or Entry level positions
+- `mid_[filename]` - For Mid positions
+- `sr_[filename]` - For Senior positions
+- `q_[filename]` - If you are feeling lazy and just want to check if the candidate can evaluate code on the top of their minds
