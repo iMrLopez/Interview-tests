@@ -25,4 +25,4 @@
 
 
 
-Test by: @iMrLopez
+© Marny Lopez https://github.com/iMrLopez
