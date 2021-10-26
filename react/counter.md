@@ -1,8 +1,7 @@
 # Bienvenido al proceso de seleccion para la posicion de React!
 
 ## Instrucciones
-- 1. Utilice el interprete en linea en [esta](https://codesandbox.io/s/cranky-night-11x2r) direccion
-- - (o cree su propio sandbox con react como framework seleccionado)
+- 1. Utilice el interprete en linea en [esta](https://codesandbox.io/s/cranky-night-11x2r) direccion (o cree su propio sandbox con react como framework seleccionado)
 - 2. Comparta su pantalla con el equipo que le esta entrevistando.
 - 3. Explique su solucion de codigo paso a paso para el entrevistador.
 - 4. Envie el enlace a su solucion por medio del chat al entrevistador
